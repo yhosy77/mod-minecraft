@@ -1,6 +1,6 @@
-#Registro de decisiones para el proyecto: "Skill Issue Admin"
+# Registro de decisiones para el proyecto: "Skill Issue Admin"
 
-#Registro de decisiones V1
+# Registro de decisiones V1
 Se penso primeramente Hacer un mod para el uso de redstone o un metodo educativo para evitar la addiccion de los jovenes a las redes sociales
 Pero luego al ver la posible dificultad se hizo una lluvia de ideas junto con claude.IA
 De ahi se decidio mejor hacer un Mod para los servidores de minecraft
